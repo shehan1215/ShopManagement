@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\C#Practice\\shopManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A03D24DD-327C-4263-AC03-0F6746B3806F}|shopManagementSystem\\shopManagementSystem.csproj|d:\\c#practice\\shopmanagementsystem\\shopmanagementsystem\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A03D24DD-327C-4263-AC03-0F6746B3806F}|shopManagementSystem\\shopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A03D24DD-327C-4263-AC03-0F6746B3806F}|shopManagementSystem\\shopManagementSystem.csproj|d:\\c#practice\\shopmanagementsystem\\shopmanagementsystem\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A03D24DD-327C-4263-AC03-0F6746B3806F}|shopManagementSystem\\shopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A03D24DD-327C-4263-AC03-0F6746B3806F}|shopManagementSystem\\shopManagementSystem.csproj|d:\\c#practice\\shopmanagementsystem\\shopmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A03D24DD-327C-4263-AC03-0F6746B3806F}|shopManagementSystem\\shopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A03D24DD-327C-4263-AC03-0F6746B3806F}|shopManagementSystem\\shopManagementSystem.csproj|d:\\c#practice\\shopmanagementsystem\\shopmanagementsystem\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A03D24DD-327C-4263-AC03-0F6746B3806F}|shopManagementSystem\\shopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,37 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Customers.cs [Design]",
-              "DocumentMoniker": "D:\\C#Practice\\shopManagementSystem\\shopManagementSystem\\Customers.cs",
-              "RelativeDocumentMoniker": "shopManagementSystem\\Customers.cs",
-              "ToolTip": "D:\\C#Practice\\shopManagementSystem\\shopManagementSystem\\Customers.cs [Design]",
-              "RelativeToolTip": "shopManagementSystem\\Customers.cs [Design]",
+              "Title": "Categories.cs [Design]",
+              "DocumentMoniker": "D:\\C#Practice\\shopManagementSystem\\shopManagementSystem\\Categories.cs",
+              "RelativeDocumentMoniker": "shopManagementSystem\\Categories.cs",
+              "ToolTip": "D:\\C#Practice\\shopManagementSystem\\shopManagementSystem\\Categories.cs [Design]",
+              "RelativeToolTip": "shopManagementSystem\\Categories.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T10:14:27.947Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Items.cs [Design]",
-              "DocumentMoniker": "D:\\C#Practice\\shopManagementSystem\\shopManagementSystem\\Items.cs",
-              "RelativeDocumentMoniker": "shopManagementSystem\\Items.cs",
-              "ToolTip": "D:\\C#Practice\\shopManagementSystem\\shopManagementSystem\\Items.cs [Design]",
-              "RelativeToolTip": "shopManagementSystem\\Items.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T10:12:42.134Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\C#Practice\\shopManagementSystem\\shopManagementSystem\\Login.cs",
-              "RelativeDocumentMoniker": "shopManagementSystem\\Login.cs",
-              "ToolTip": "D:\\C#Practice\\shopManagementSystem\\shopManagementSystem\\Login.cs [Design]",
-              "RelativeToolTip": "shopManagementSystem\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T10:12:34.016Z",
+              "WhenOpened": "2024-03-27T03:32:55.828Z",
               "EditorCaption": " [Design]"
             }
           ]
