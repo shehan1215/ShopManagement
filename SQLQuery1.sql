@@ -1,1 +1,1 @@
-﻿create table CustomerTbl(CustCode int primary key identity,Name varchar(50));
+﻿create table ItemsTbl(ItemCode int primary key identity,ItName varchar(80),ItCategory int foreign key references Categorytbl(CatCode),Gender varchar(10),phone varchar(15));
