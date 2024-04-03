@@ -1,0 +1,9 @@
+D:\C#Practice\shopManagementSystem\shopManagementSystem\obj\Debug\shopManagementSystem.csproj.AssemblyReference.cache
+D:\C#Practice\shopManagementSystem\shopManagementSystem\obj\Debug\shopManagementSystem.Billing.resources
+D:\C#Practice\shopManagementSystem\shopManagementSystem\obj\Debug\shopManagementSystem.Categories.resources
+D:\C#Practice\shopManagementSystem\shopManagementSystem\obj\Debug\shopManagementSystem.Customers.resources
+D:\C#Practice\shopManagementSystem\shopManagementSystem\obj\Debug\shopManagementSystem.Items.resources
+D:\C#Practice\shopManagementSystem\shopManagementSystem\obj\Debug\shopManagementSystem.Login.resources
+D:\C#Practice\shopManagementSystem\shopManagementSystem\obj\Debug\shopManagementSystem.Properties.Resources.resources
+D:\C#Practice\shopManagementSystem\shopManagementSystem\obj\Debug\shopManagementSystem.csproj.GenerateResource.cache
+D:\C#Practice\shopManagementSystem\shopManagementSystem\obj\Debug\shopManagementSystem.csproj.CoreCompileInputs.cache
